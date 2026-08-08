@@ -1,5 +1,22 @@
 # Insertion Sort
 
+
+## 1. Compile TypeScript
+
+Compile the TypeScript file into JavaScript:
+
+```bash
+tsc index.ts
+```
+
+## 2. Run the js code
+
+Run the generated JavaScript file using Node.js:
+
+```bash
+node index.js
+```
+
 ## What is Insertion Sort?
 
 Insertion Sort is a simple sorting algorithm that builds the sorted array **one element at a time**.
